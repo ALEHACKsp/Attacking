@@ -1,4 +1,4 @@
-# SyDosnet
+## Attack C++
 ![Email](https://img.shields.io/badge/about-Samcrobit@gmail.com-blue)
 [![discord](https://img.shields.io/badge/discord-click-blue)](https://discord.gg/vRTprMUU8a)
 ![os](https://img.shields.io/badge/os-Windows10X-blue)
