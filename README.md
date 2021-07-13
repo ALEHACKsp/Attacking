@@ -7,7 +7,7 @@
 ## Usage
 
 ```sh
-git clone https://github.com/seungyup26/sydosnet && cd sydosnet
+git clone https://github.com/SmurfsCC/Attacking && cd sydosnet
 ```
 
 ```sh
