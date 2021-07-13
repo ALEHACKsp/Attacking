@@ -1,7 +1,7 @@
 # SyDosnet
-![email](https://img.shields.io/badge/about-seungyup26%40gmail.com-blue)
-[![discord](https://img.shields.io/badge/discord-click-blue)](https://discord.gg/vgcteh8JAc)
-![os](https://img.shields.io/badge/os-linux-blue)
+![Email](https://img.shields.io/badge/about-Samcrobit@gmail.com-blue)
+[![discord](https://img.shields.io/badge/discord-click-blue)](https://discord.gg/vRTprMUU8a)
+![os](https://img.shields.io/badge/os-Windows10X-blue)
 ![lang](https://img.shields.io/badge/lang-cpp-blue)
 
 ## Usage
@@ -21,4 +21,4 @@ g++ linux/src/main.cpp linux/src/lib/dosapi.cpp -o test/sydosnet.exe -pthread &&
 <image src="image/sydosnet.png" width = "500px"><br><br>
 
 ## API
-DosApi https://github.com/seungyup26/dosapi
+[DosApi](https://github.com/SmurfsCC/Attacking)
